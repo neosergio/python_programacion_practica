@@ -8,7 +8,9 @@ de Jennifer Campbell, Paul Gries, Jason Montojo y Greg Wilson publicado en su li
 publicado bajo The Pragmatic Programmers, LLC.
 
 # Resumen
-- [Introducción a Python]
+- [Introducción a Python](#introducción-a-python)
+- [Cadenas]
+- [Módulos]
 
 # Introducción a Python
 - Definiciones generales.
@@ -22,4 +24,16 @@ publicado bajo The Pragmatic Programmers, LLC.
 - Manejo básico de errores
 - Funciones Built-in
 
+# Cadenas
+- Strings o cadenas
+- Caracteres de escape
+- Strings en varias líneas
+- Print
+- Impresión formateada
+- Ingreso de usuario
 
+# Módulos
+- Importando módulos
+- Definiendo módulos propios
+- Objetos y Métodos
+- Pruebas unitarias básicas
