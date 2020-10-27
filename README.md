@@ -83,3 +83,30 @@ publicado bajo The Pragmatic Programmers, LLC.
 - Busqueda lineal
 - Busqueda binaria
 - Ordenamiento
+
+# Construcción
+- Funciones
+- Excepciones
+- Testing
+- Debugging
+- Patrones
+
+# Programación Orientada a Objetos
+- Clases
+- Métodos especiales
+
+# Interfaces gráficas de usuario
+- Tkinter
+- Construcción básica GUI
+- Modelos, vistas y controladores
+- Estilos
+- Widgets
+- GUIs orientadas a objetos
+
+# Bases de datos
+- Obteniendo datos
+- Actualizando y borrando datos
+- Transacciones
+- NULL para datos faltantes
+- Joins para combinación de tablas
+- Llaves y restricciones
