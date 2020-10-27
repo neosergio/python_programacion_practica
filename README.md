@@ -13,6 +13,15 @@ publicado bajo The Pragmatic Programmers, LLC.
 - [Módulos](#módulos)
 - [Listas](#listas)
 - [Decisiones](#decisiones)
+- [Repeticiones](#repeticiones)
+- [Procesamiento de Archivos](#procesamiento-de-archivos)
+- [Sets y Diccionarios](#sets-y-diccionarios)
+- [Algoritmos](#algoritmos)
+- [Busqueda y Ordenamiento](#busqueda-y-ordenamiento)
+- [Construcción](#construcción)
+- [Programación Orientada a Objetos](#programación-orientada-a-objetos)
+- [Interfaces gráficas de usuario](#interfaces-gráficas-de-usuario)
+- [Bases de datos](#bases-de-datos)
 
 # Introducción a Python
 - Definiciones generales.
